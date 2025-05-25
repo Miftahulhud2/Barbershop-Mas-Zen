@@ -1,5 +1,5 @@
 # Barbershop-Mas-Zen
-![pertinjau web](image.png)
+![pertinjau web](img.png)
 *live demo 👍*  https://miftahulhud2.github.io/Barbershop-Mas-Zen/
 Website resmi untuk **Barbershop Mas Zen** — menampilkan layanan potong rambut, galeri, tim profesional, blog, dan kontak.
 
