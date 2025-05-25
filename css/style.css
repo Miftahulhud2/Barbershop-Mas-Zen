@@ -251,6 +251,11 @@ a:focus {
 		box-shadow: none;
 	}
 }
+@media (max-width: 576px) {
+    .navbar .navbar-brand {
+		font-size: 28px !important;
+	}
+}
 
 /*******************************/
 /********** Hero CSS ***********/
